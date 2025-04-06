@@ -1,2 +1,2 @@
 # PYRA
-An adaptive math learning web app for students to practice BODMAS operations. The app adjusts question difficulty based on student performance (time, correctness) and facial emotion (happy, sad, neutral) using real-time sentiment analysis.
+An intelligent and engaging web application that helps students learn BODMAS (Brackets, Order, Division, Multiplication, Addition, Subtraction) math operations. The app adapts to the student’s learning pace using performance metrics and sentiment analysis to personalize the difficulty level of problems.
